@@ -10,7 +10,7 @@ Airflow - To run on a daily basis to get data from spotify and add to existing d
 *Queue and notification system. Maybe SQS and SNS?>*
 
 ## Data Source
-Million Song Dataset - https://labrosa.ee.columbia.edu/millionsong/
+Million Song Dataset - https://labrosa.ee.columbia.edu/millionsong/   
 Spotify API - https://developer.spotify.com/documentation/web-api/reference/browse/  
 Accelerometer Data Stream - https://www.kaggle.com/vmalyi/run-or-walk
 
