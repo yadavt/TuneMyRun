@@ -4,14 +4,14 @@
 Create an application that queues songs for runners based on speed and a track's bpm. Additionally runner's taste in music will also be a factor in the overall selection of the song.
 
 ## Tech Stack
-S3- For primary data storage
-Airflow - To run on a daily basis to get data from spotify and add to existing database
-*Scalable, Low latency and high throughput streaming solution. Can compromise on throughput to an extent but not latency*
-*Queue and notification system. Maybe SQS and SNS?*
+S3- For primary data storage  
+Airflow - To run on a daily basis to get data from spotify and add to existing database  
+*<Scalable, Low latency and high throughput streaming solution. Can compromise on throughput to an extent but not latency*
+*Queue and notification system. Maybe SQS and SNS?>*
 
 ## Data Source
 Million Song Dataset - https://labrosa.ee.columbia.edu/millionsong/
-Spotify API - https://developer.spotify.com/documentation/web-api/reference/browse/
+Spotify API - https://developer.spotify.com/documentation/web-api/reference/browse/  
 Accelerometer Data Stream - https://www.kaggle.com/vmalyi/run-or-walk
 
 ## Engineering Challenge
